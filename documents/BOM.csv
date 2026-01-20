@@ -1,0 +1,16 @@
+CUPID BOM - in CSV form,
+Romeo Perlstein,
+romeperl@umd.edu,
+,
+,
+PARTS (as of 1/19/2025),
+name,description,count,cost,link,other,
+Thruster Orings (large),The larger outer orings of the thruster seals (OD=50mm ID=46mm),many,16.83,https://www.amazon.com/dp/B01DO0XRTS?ref=ppx_yo2ov_dt_b_fed_asin_title,loose fit
+Thruster Orings (small),The smaller inner orings of the thruster seals (OD=31mm ID=27mm),many,16.83,https://www.amazon.com/dp/B07F36R49K?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,tight fit
+Camera, The CUPID camera,1,11.90,https://www.amazon.com/dp/B08MXVDY2B?ref=ppx_yo2ov_dt_b_fed_asin_title,,
+Teensy 4.0,The brains of CUPID,1,26.31,https://www.amazon.com/dp/B0CR5DCRR2?ref=ppx_yo2ov_dt_b_fed_asin_title,,
+BLDC motors (thrusters),thrusters,6,115.52,https://www.amazon.com/dp/B07CV9DVSX?ref=ppx_yo2ov_dt_b_fed_asin_title,,
+ESP,the speed controller for the thrusters,6,115.52,https://www.amazon.com/dp/B07SK6M7P9?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,,
+Propellers,thruster propellers,6,115.52,https://www.amazon.com/dp/B088FH9ZPB?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1,,
+Raspberry Pi,the main brains,1,64.65,https://www.amazon.com/dp/B07TC2BK1X?ref=ppx_yo2ov_dt_b_fed_asin_title,,
+
